@@ -1,4 +1,4 @@
-package ru.starovoyt.smart_calendar_assistant;
+package ru.starovoyt.smartcalendarassistant;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
